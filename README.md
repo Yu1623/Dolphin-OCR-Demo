@@ -2,4 +2,4 @@
 This repository serves as a practice for using Dolphin OCR.
 
 ## Citation
-https://github.com/bytedance/Dolphin
+[1] https://github.com/bytedance/Dolphin
