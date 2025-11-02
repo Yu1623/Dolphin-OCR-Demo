@@ -1,1 +1,10 @@
 # Dolphin-OCR-Demo
+This repository serves as a practice for using Dolphin OCR.
+
+## Citation
+@inproceedings{dolphin2025,
+  title={Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting},
+  author={Feng, Hao and Wei, Shu and Fei, Xiang and Shi, Wei and Han, Yingdong and Liao, Lei and Lu, Jinghui and Wu, Binghong and Liu, Qi and Lin, Chunhui and Tang, Jingqun and Liu, Hao and Huang, Can},
+  year={2025},
+  booktitle={Proceedings of the 65rd Annual Meeting of the Association for Computational Linguistics (ACL)}
+}
